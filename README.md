@@ -106,6 +106,8 @@ Or run the Jupyter Notebook for a step-by-step analysis:
 ```sh
 jupyter notebook fire_index_mapping_with_fire_boundaries_refined.ipynb
 ```
+You can also see the webpage output of running the repository at https://AlexGerwer.github.io/Inferno_Insights/
+The map should load, displaying the fire index markers and the color scale for each fire index box. You can interact with the map by zooming and panning, and you can toggle the visibility of different fire indices, various fire index combinations, and the fire boundary map using the layer control.
 
 ## Results
 
