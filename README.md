@@ -113,9 +113,5 @@ The map should load, displaying the fire index markers and the color scale for e
 
 The project outputs an interactive map displaying fire danger indices, with color-coded risk levels for better visualization. This allows researchers and decision-makers to compare various fire weather indices in real time.
 
-## Team Contributions
-
-All members contributed to the project through research, development, testing, documentation, and presentation. Specific contributions are detailed within the project proposal document and within the commit history of the Git repository.
-
 ## License
 The project is released under the MIT License, which is a permissive open-source license that allows users to freely use, modify, distribute, and sublicense the software with minimal restrictions. This means that anyone can incorporate this project into their own work, whether for personal, academic, or commercial purposes, as long as the original copyright notice and license terms are included. For full details, refer to the LICENSE file in the repository.
