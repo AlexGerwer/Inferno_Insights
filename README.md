@@ -21,12 +21,15 @@ The project overlays these indices on an interactive map displaying current fire
 
 ```
 Inferno_Insights/
+├── README # This file
+├── Project 3 Proposal - Inferno Insights.pdf  # Project documentation
+├── Summary_Explanation_of_the_Progress_Made_with_the_First_Five_Code_Iterations # Summary of the code evolution
 ├── Project 3 Proposal - Inferno Insights.pdf  # Project documentation
 ├── References/  # Contains background references
-├── Canadian Forest Fire Weather Index (FWI) System/  # FWI dataset
-├── mFFWI/  # Modified Fosberg Fire Weather Index data
-├── NRDS4_FDI/  # Additional fire danger index data
-├── open-meteo/  # Weather data source
+│   ├── Canadian Forest Fire Weather Index (FWI) System/  # FWI dataset
+│   ├── mFFWI/  # Modified Fosberg Fire Weather Index data
+│   ├── NRDS4_FDI/  # Additional fire danger index data
+│   ├── open-meteo/  # Weather data source
 ├── LA_Combined_Fire_Indices_Including_Fire_Boundaries_Combination_Markers_Final/
 │   ├── fire_index_mapping_with_fire_boundaries_refined.ipynb  # Analysis notebook
 │   ├── fire_index_mapping_with_fire_boundaries_refined_Explanaion.pdf  # Explanation of methods
@@ -42,6 +45,9 @@ Inferno_Insights/
 │   ├── fire_index_mapping_with_fire_boundaries_refined_Results.csv  # Results of analysis
 │   ├── .cache.sqlite  # Cache for faster access
 │   ├── fire_weather.db #SQLite database used to store results
+├── docs/ #Contains items required for GitHub pages deployment
+│   ├── fire_index_mapping_with_fire_boundaries_refined  # Jupyter Notebook with code
+│   ├── index.html  # html file created by Jupyter Notebook (see above)
 ```
 
 ## Methodology
