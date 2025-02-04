@@ -41,7 +41,7 @@ Inferno_Insights/
 │   ├── fire_index_mapping_with_fire_boundaries_refined_Code.py  # Python code
 │   ├── fire_index_mapping_with_fire_boundaries_refined_Results.csv  # Results of analysis
 │   ├── .cache.sqlite  # Cache for faster access
-│   ├── fire_weather.db #SQL database used to store results
+│   ├── fire_weather.db #SQLite database used to store results
 ```
 
 ## Methodology
