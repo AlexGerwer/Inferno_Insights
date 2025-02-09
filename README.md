@@ -24,21 +24,6 @@ Inferno_Insights/
 ├── README # This file
 ├── Project 3 Proposal - Inferno Insights.pdf  # Project documentation
 ├── Summary_Explanation_of_the_Progress_Made_with_the_First_Five_Code_Iterations # Summary of the code evolution
-├── flask_deployment_background/
-│   ├── flask_deployment_explanation.ipynb   (Notes on the Flask deployment process)
-│   ├── gitbash_local_test_run.txt           (Local GitBash output file)
-│   └── local_test_run_results.pdf           (Results of doing test run on local computer)
-├── .github/
-│   └── workflows/
-│       └── deploy.yaml  (This is the workflow file)
-├── app.py               (Flask application)
-├── functions.py         (Functions from your notebook)
-├── requirements.txt     (Dependencies)
-├── static/
-│   ├── index.html       (Generated map - will be overwritten)
-│   └── favicon.ico      (Prevents "GET /favicon.ico HTTP/1.1" 404" error)
-└── templates/
-    └── index.html       (Flask template for user input)
 ├── References/  # Contains background references
 │   ├── Canadian Forest Fire Weather Index (FWI) System/  # FWI dataset
 │   ├── mFFWI/  # Modified Fosberg Fire Weather Index data
