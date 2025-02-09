@@ -40,4 +40,4 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)  # Use debug=True for development, False for production        
+    app.run(debug=False)  # Use debug=True for development, False for production        
